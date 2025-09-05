@@ -30,6 +30,18 @@ Project Structure
 - **Ablation studies**: Quantifies the contribution of each feature group.
 - **Interactive dashboards**: Enables stakeholders to explore sentiment trends visually.
 
+## 📥 Data Access
+
+The full dataset is too large to store in this repository.  
+You can download it from [Google Drive](https://drive.google.com/file/d/12zf0k0unfIOD-awppuUzH5iknsDgea9Y/view?usp=share_link).
+
+Once downloaded, place the file in the `data/` directory before running the notebooks or scripts.
+
+**Note:** The dataset is compressed (`.jsonl.gz`). You’ll need to extract it before use:
+```bash
+gunzip data/Amazon_Fashion.jsonl.gz
+```
+
 
 ##  Methodology
 
