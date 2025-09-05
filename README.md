@@ -30,7 +30,7 @@ Project Structure
 - **Ablation studies**: Quantifies the contribution of each feature group.
 - **Interactive dashboards**: Enables stakeholders to explore sentiment trends visually.
 
-## 📥 Data Access
+## Data Access
 
 The full dataset is too large to store in this repository.  
 You can download it from [Google Drive](https://drive.google.com/file/d/12zf0k0unfIOD-awppuUzH5iknsDgea9Y/view?usp=share_link).
