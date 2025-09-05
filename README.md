@@ -20,7 +20,7 @@ Project Structure
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
 └── LICENSE                # License information
-
+```
 
 ##  Key Features
 
@@ -65,8 +65,8 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt```
-
+pip install -r requirements.txt
+```
 
 ## Results & Insights
 Lifecycle-aware models outperform baseline sentiment models by capturing temporal context.
